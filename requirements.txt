@@ -4,4 +4,4 @@ pandas
 scikit-learn
 imbalanced-learn
 gunicorn
-pickle5
+pickle
