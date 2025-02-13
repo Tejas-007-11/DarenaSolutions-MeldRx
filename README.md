@@ -1,6 +1,6 @@
-# HYGIEIA – AI-Powered Stroke Prediction System  
+Stroke Prediction System Using Machine Learnong  
 
-HYGIEIA is an AI-powered stroke prediction system designed to analyze patient health metrics and predict stroke risks with high accuracy. This project leverages **machine learning** to provide early warnings and assist healthcare professionals in proactive decision-making.  
+This is a stroke prediction system designed to analyze patient health metrics and predict stroke risks with high accuracy. This project leverages **machine learning** to provide early warnings and assist healthcare professionals in proactive decision-making.  
 
 ## 🌟 Features
 - 🏥 **Predicts Stroke Risk** based on patient data  
