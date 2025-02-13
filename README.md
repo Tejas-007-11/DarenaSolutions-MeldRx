@@ -1,4 +1,4 @@
-Stroke Prediction System Using Machine Learnong  
+## Stroke Prediction System Using Machine Learning 
 
 This is a stroke prediction system designed to analyze patient health metrics and predict stroke risks with high accuracy. This project leverages **machine learning** to provide early warnings and assist healthcare professionals in proactive decision-making.  
 
